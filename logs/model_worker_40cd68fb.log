@@ -1,0 +1,13 @@
+2024-10-07 02:07:40 | INFO | stdout | controller_address:http://127.0.0.1:9527
+2024-10-07 02:07:40 | INFO | stdout | worker_address:http://127.0.0.1:9528
+2024-10-07 02:07:40 | INFO | model_worker | Loading the model ['Qwen2-0.5B-Instruct'] on worker 40cd68fb ...
+2024-10-07 02:07:41 | INFO | model_worker | Register to controller
+2024-10-07 02:07:41 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m1972[0m]
+2024-10-07 02:07:41 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2024-10-07 02:07:41 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2024-10-07 02:07:41 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:9528[0m (Press CTRL+C to quit)
+2024-10-07 02:08:26 | INFO | model_worker | Send heart beat. Models: ['Qwen2-0.5B-Instruct']. Semaphore: None. call_ct: 0. worker_id: 40cd68fb. 
+2024-10-07 02:09:11 | INFO | model_worker | Send heart beat. Models: ['Qwen2-0.5B-Instruct']. Semaphore: None. call_ct: 0. worker_id: 40cd68fb. 
+2024-10-07 02:09:56 | INFO | model_worker | Send heart beat. Models: ['Qwen2-0.5B-Instruct']. Semaphore: None. call_ct: 0. worker_id: 40cd68fb. 
+2024-10-07 02:10:41 | INFO | model_worker | Send heart beat. Models: ['Qwen2-0.5B-Instruct']. Semaphore: None. call_ct: 0. worker_id: 40cd68fb. 
+2024-10-07 02:11:26 | INFO | model_worker | Send heart beat. Models: ['Qwen2-0.5B-Instruct']. Semaphore: None. call_ct: 0. worker_id: 40cd68fb. 
